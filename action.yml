@@ -54,3 +54,4 @@ runs:
   image: 'Dockerfile'
   env:
     GITHUB_TOKEN: ${{ inputs.github_token }}
+    GITHUB_USER: mt-mods
